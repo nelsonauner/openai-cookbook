@@ -486,6 +486,15 @@
   tags:
     - completions
 
+- title: Combine LLM-As-Judge and Human Evaluators using Token Probabilities and Cleanlab
+  path: examples/evaluation/Combine_Multiple_Evaluators_with_Token_Probabilities_and_Cleanlab.ipynb
+  date: 2024-08-14
+  authors:
+    - nelsonauner
+  tags:
+    - completions
+    - functions
+
 - title: Developing Hallucination Guardrails
   path: examples/Developing_hallucination_guardrails.ipynb
   date: 2024-05-29
